@@ -1,0 +1,6 @@
+{
+  "line-length": false,
+  "code-fence-style": {
+    "style": "backtick"
+  }
+}

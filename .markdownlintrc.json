@@ -1,0 +1,13 @@
+{
+  "extends": "markdownlint/style/prettier",
+  "rules": {
+    "line-length": {
+      "line_length": 120,
+      "heading_line_length": 120,
+      "header_line_length": 120,
+      "code_blocks": false,
+      "code_fence": false,
+      "headers": false
+    }
+  }
+}
